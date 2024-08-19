@@ -43,4 +43,5 @@ Web Security Advisor es una extensión para Google Chrome diseñada para ayudar 
 ## Autor
 
 Emilio Flores
+Edwin Caiza
 
